@@ -15,4 +15,4 @@
 - This app is very nice, and if you go to the Jetbrains IntelliJ Idea page for download it, you will to install the wrong version, search in Google → *IntelliJ Idea Community Edition download* for example, to find the download link of the correct version.
 
 ## Google Translate
-- I use Google Translator for translate some sentences i don't know how to write in english
+- I use Google Translator for translate some sentences i don't know how to write in english, because yes, I'm from Spain, and sometimes I need Google Translate for translate some sentences.
