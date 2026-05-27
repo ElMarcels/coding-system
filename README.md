@@ -20,3 +20,5 @@ This repo contains my complete coding system, showing you what i use in my desk 
    - 2.3 [Wireless HeadPhones](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md#wireless-headphones)
    - 2.4 [Desk Light](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md#desk-light)
    - 2.5 [Alexa](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md#alexa)
+
+3. [My Visual Studio Code Settings](vscode-settings.md) 
