@@ -9,6 +9,8 @@ This repo contains my complete coding system, showing you what i use in my desk 
     - 1.2 [Notion](https://github.com/ElMarcels/coding-system/blob/main/apps.md#notion---global-)
     - 1.3 [IntelliJ Idea Community Edition](https://github.com/ElMarcels/coding-system/blob/main/apps.md#intellij-idea-intellij-idea-community-edition---minecraft-plugins-development-%EF%B8%8F)
     - 1.4 [Google Translate](https://github.com/ElMarcels/coding-system/blob/main/apps.md#google-translate-)
+    - 1.5 [Spotify](https://github.com/ElMarcels/coding-system/blob/main/apps.md#spotify-%EF%B8%8F)
+    - 1.6 [MechaKeys](https://github.com/ElMarcels/coding-system/blob/main/apps.md#mechakeys-%EF%B8%8F)
 
 2. [My Accesories & Gadgets](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md)
    - 2.1 [My Mouse](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md#my-mouse)
