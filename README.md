@@ -11,4 +11,4 @@ This repo contains my complete coding system, showing you what i use in my desk 
     - 1.3 [IntelliJ Idea Community Edition](https://github.com/ElMarcels/coding-system/blob/main/apps.md#intellij-idea-intellij-idea-community-edition---minecraft-plugins-development-%EF%B8%8F)
     - 1.4 [Google Translate](https://github.com/ElMarcels/coding-system/blob/main/apps.md#google-translate-)
 
-2. My Accesories & Gadgets 
+2. [My Accesories & Gadgets](https://github.com/ElMarcels/coding-system/blob/main/accesories-gadgets.md) 
