@@ -1,4 +1,4 @@
-# Apps I Use for Develop
+# Apps I Use for Develop & when I'm Coding
 
 ---
 
@@ -12,7 +12,15 @@
 
 ## IntelliJ Idea (*IntelliJ Idea Community Edition*) - Minecraft Plugins Development ⌨️
 - I use IntelliJ Idea Community Edition for my minecraft plugins, all the plugins I create, I program that with the IntelliJ Idea Community Edition Version. I use this app especially because I can integrate Google Gemini too, like in Visual Studio Code.
-- This app is very nice, and if you go to the Jetbrains IntelliJ Idea page for download it, you will to install the wrong version, search in Google → *IntelliJ Idea Community Edition download* for example, to find the download link of the correct version.
+- This app is very nice, and if you go to the JetBrains IntelliJ Idea page for download it, you will to install the wrong version, search in Google → *IntelliJ Idea Community Edition download* for example, to find the download link of the correct version.
 
 ## Google Translate 🌍
 - I use Google Translator for translate some sentences i don't know how to write in english, because yes, I'm from Spain, and sometimes I need Google Translate for translate some sentences.
+
+## Spotify ⏯️
+- I use Spotify for listen to music or podcasts meanwhile I'm coding, normally i listen to LoFi Music from the Spotify Official Playlist
+- And for don't disturbs I pay the Spotify Premium Version.
+
+## MechaKeys ⌨️
+- I use MechaKeys for have a satisfactory keyboard sound menwhile I'm coding, so I don't need to listen the boring sound from my keyboard.
+
